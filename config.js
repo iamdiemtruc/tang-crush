@@ -1,19 +1,20 @@
+  
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Nếu như em là trà sữa, thì anh là đường tinh
+    Nếu như em là trang web, thì anh là đường link
+    Khiến anh đau đầu, em là phương trình
+    Nếu như em là âu cơ, kế bên anh là trường chinh`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Cậu đang thích tớ đúng không? 😙',
+    desc: 'Cậu mà out là cậu muốn làm ngiu tớ đấy :33 ',
+    btnYes: 'Có, thích ơi là thích luôn í❤',
+    btnNo: 'Không, cậu đang mơ đó sao :3',
+    question:'Cậu thích tớ vì lí do gì thế???',
+    btnReply: 'Gửi cho tớ ❤',
+    reply: 'Vì cậu dethuong vailon chứ gì nữa :3 ❤',
+    mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
+    messDesc: 'Đang trong mùa dịch bệnh nên cậu đừng đi đâu hết nha bbi. Cậu bệnh tớ lo :<',
+    btnAccept: 'Okiiiii lun ❤',
+    messLink: 'https://www.facebook.com/PY78.mocnghienduocchua'
 }
